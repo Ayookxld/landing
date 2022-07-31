@@ -13,6 +13,8 @@ You can save the launcher anywhere you want, somewhere convenient such as your d
 
 The launcher will now start the process of installing the client files.
 
+download bo2 now 
+
 ![launcher self update / installation](/images/docs/install/9aHmzEk.png)
 
 3. Enter your forum credentials to login, if you don't already have a forum account you can create one [here](https://forum.plutonium.pw/register).
